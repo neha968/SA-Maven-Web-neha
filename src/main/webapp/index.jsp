@@ -1,8 +1,8 @@
 <html>
 <body>
 <h1>Hello.....</h1>
-<h2>Welcome to Jenkins</h2>
-<a href="https://www.jenkins.io/">Visit jenkins class!</a>
+<h2>Welcome to kubernates</h2>
+<a href="https://kubernetes.io/">Visit this site..!</a>
 <h3>greate Learning</h3>
 
 </body>
